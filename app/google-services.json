@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "212190871632",
+    "firebase_url": "https://controlar-gastos-default-rtdb.firebaseio.com",
+    "project_id": "controlar-gastos",
+    "storage_bucket": "controlar-gastos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212190871632:android:7c769e2d64e06c7a80d155",
+        "android_client_info": {
+          "package_name": "com.baggold.net.minhacarteiradebolso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212190871632-fbsg0mdij1r1bb0u2h1gg6qv7f4ctpq4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.baggold.net.minhacarteiradebolso",
+            "certificate_hash": "e453bc45cc10f45fc0efb5686685fb8d97511f43"
+          }
+        },
+        {
+          "client_id": "212190871632-r7p3hsvjf08a5is3benan9sh0qfif7kp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj8Nl3d8jM4Y_1bl21P99yTKCQ247XwhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212190871632-r7p3hsvjf08a5is3benan9sh0qfif7kp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212190871632:android:c17f46f020b0d35d80d155",
+        "android_client_info": {
+          "package_name": "com.partnersenige.controlargastos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212190871632-hh0psv65e84jj4il62n7t41qpj5vg8e3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.partnersenige.controlargastos",
+            "certificate_hash": "29a7b4a0feda214bc98bc0476869ebd508e9a333"
+          }
+        },
+        {
+          "client_id": "212190871632-r7p3hsvjf08a5is3benan9sh0qfif7kp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj8Nl3d8jM4Y_1bl21P99yTKCQ247XwhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212190871632-r7p3hsvjf08a5is3benan9sh0qfif7kp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
